@@ -1,0 +1,6 @@
+{
+  "name": "ResumeLens n8n Analyzer",
+  "description": "Automated Resume Analyzer and ATS scoring portal powered by n8n cloud workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
